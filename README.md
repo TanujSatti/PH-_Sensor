@@ -1,4 +1,4 @@
-<p align=”center”> PH-Sensor </p>
+## PH-Sensor </p>
  
 A pH sensor is one of the most essential tools that's typically used for water measurements.
 This type of sensor is able to measure the amount of alkalinity and acidity in water and other solutions.
@@ -9,7 +9,7 @@ Now,
 
 In four easy steps you will be able to setup Ph sensor:
 
-STEP 1: Procuring materials
+STEP 1: Procuring materials <a href=“www.google.com”></a>
 STEP 2: Plug in
 STEP 3: Caliberate
 STEP 4: Play
