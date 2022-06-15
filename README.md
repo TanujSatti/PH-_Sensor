@@ -1,4 +1,4 @@
-## PH-Sensor
+<p align=”center”> PH-Sensor </p>
  
 A pH sensor is one of the most essential tools that's typically used for water measurements.
 This type of sensor is able to measure the amount of alkalinity and acidity in water and other solutions.
